@@ -3,4 +3,4 @@
 ---
 Hello! I am Caen Jones, just another stupid developer! I spend my time writing bad code, taking nature photography, and trying not to wreak my linux install.
 
-My latest project's are: [#project-purplebubble](https://github.com/thepurplebubble) and a terminal-based chatroom called [Devzat](https://github.com/quackduck/devzat). 
+My latest project's are: [thepurplebubble](https://github.com/thepurplebubble) and a terminal-based chatroom called [Devzat](https://github.com/quackduck/devzat). 
